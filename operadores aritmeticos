@@ -1,0 +1,19 @@
+
+num1= int(input("ingresa el numero 1: "))
+num2= int(input("ingresa el numero 2: "))
+suma = num1+num2
+resta = num1 - num2
+multiplicacion = num1 * num2
+print ("la suma es ",suma)
+print ("la resta es  ",resta)
+print ("la multiplicacion es ",multiplicacion)
+
+numero4 = round(2) # ROUND , redondea cuantos decimales se va tener
+print(numero4)
+
+import math
+# math.pow(numero4,2)
+print("la potencia con math es : ", math.pow(numero4,3))
+
+# PARA COMENTAR CTRL + K + C
+# PARA DESCOMENTAR CTRL + K + U
